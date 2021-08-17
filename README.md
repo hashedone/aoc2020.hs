@@ -1,2 +1,3 @@
-# aoc2020.hs
-Another attempt to learn haskell, this time using Advent of Code 2020
+# Haskell of Code 2020
+
+Another attempt to learn Haskell, this time using Advent of Code 2020
